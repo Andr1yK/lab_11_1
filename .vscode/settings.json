@@ -1,0 +1,14 @@
+{
+  "files.associations": {
+    "iostream": "cpp",
+    "string": "cpp",
+    "filesystem": "cpp",
+    "iosfwd": "cpp",
+    "chrono": "cpp",
+    "limits": "cpp",
+    "ratio": "cpp",
+    "algorithm": "cpp",
+    "ostream": "cpp"
+  },
+  "C_Cpp.errorSquiggles": "Disabled"
+}
