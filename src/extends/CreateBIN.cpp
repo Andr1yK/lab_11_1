@@ -1,5 +1,5 @@
 #pragma once
- 
+
 #ifndef _CREATEBIN_
 #define _CREATEBIN_
 
